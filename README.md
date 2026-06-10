@@ -206,4 +206,4 @@ O arquivo `supabase/config.toml` controla:
 
 ## Licença
 
-Proprietário — © 2026 CRM Pro. Todos os direitos reservados.
+Diego — © 2026 CRM Pro. Todos os direitos reservados.
